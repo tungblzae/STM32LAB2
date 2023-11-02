@@ -164,3 +164,27 @@ Caused by: java.security.NoSuchAlgorithmException: No algorithm found for 1.2.84
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-11-02 15:23:57.780
 !MESSAGE Indexed 'lab1' (19 sources, 78 headers) in 2.79 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2023-11-02 15:37:13.719 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-11-02 15:37:21.190
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-02 15:37:27.152
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-02 15:37:27.262
+!MESSAGE Log4j initialized with config file D:\STM32allprj\git\LAB1\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-02 15:37:39.057
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2023-11-02 15:38:07.203
+!MESSAGE No repository found at jar:file:/C:/Users/nguye/OneDrive/Desktop/en.stm32cubef4_v1-27-0.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2023-11-02 15:38:07.264
+!MESSAGE No repository found at jar:file:/C:/Users/nguye/OneDrive/Desktop/en.patch_cubef4_v1-27-1.zip!/.
